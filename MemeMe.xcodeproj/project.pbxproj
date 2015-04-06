@@ -64,6 +64,7 @@
 				7BE146AD1AD30F6B00F407A0 /* Products */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 		7BE146AD1AD30F6B00F407A0 /* Products */ = {
 			isa = PBXGroup;
